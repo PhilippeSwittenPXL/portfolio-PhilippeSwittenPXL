@@ -60,7 +60,7 @@ Passionate about IT infrastructure, networking, cloud technologies, and cybersec
 ## 📫 Connect With Me
 
 🔗 GitHub:  
-https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-PhilippeSwittenPXL
+https://pxl-digital-sne-werkplekleren.github.io/portfolio-PhilippeSwittenPXL/#/
 
 🔗 LinkedIn:  
 https://www.linkedin.com/in/philippe-switten
